@@ -20,6 +20,13 @@ Churn-Prediction-Telco/
 └── presentation/          # Presentazione del progetto (Gamma)
 ```
 
+### Come importare il Flow in Dataiku
+
+1. Scarica il file `PREVCHURNTELECOM.zip`
+2. Apri **Dataiku DSS**
+3. Clicca **New Project** → **Import project**
+4. Carica il file zip → il Flow si ricostruisce automaticamente
+
 ---
 
 ## Dataset
