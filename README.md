@@ -127,6 +127,13 @@ Il modello è stato applicato a un dataset di **50 nuovi clienti** (`telco_futur
 
 ---
 
+## Presentazione del Progetto
+
+[Visualizza la presentazione su Gamma](https://gamma.app/docs/Analisi-del-Churn-in-unazienda-Telco-g57evcsu8u0m7pb)
+
+---
+
+
 ## Autore
 
 **Nicolás Valenzuela**
